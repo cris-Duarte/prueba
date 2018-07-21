@@ -1,0 +1,9 @@
+button, input {
+	padding: 5%;
+	margin-top: 5%;
+	margin-bottom: 20px;
+}
+div {
+	align-content: center;
+	padding: 20%;
+}
